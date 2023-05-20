@@ -2,7 +2,7 @@ package Searching;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        //int[] arr = new int[]{1,3,6,15,8,0};
+
         int[] arr = {1,3,6,15,18,20}; //only sorted array
         int key=1;
         int lower=0;

@@ -1,3 +1,5 @@
+package JavaCoreExercises;
+
 public class CountNumberOfDigit {
 
     public static void main(String[] args) {

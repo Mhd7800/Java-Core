@@ -21,7 +21,6 @@ public class RemoveDuplicates {
                 }
             }
 
-
         System.out.println(Arrays.toString(nums));
 
         return counter;

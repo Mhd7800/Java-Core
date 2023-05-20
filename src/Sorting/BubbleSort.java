@@ -1,6 +1,11 @@
 package Sorting;
-
 import java.util.Arrays;
+
+/*
+We need two loops , one to count the number of pass and the second to search trough the array
+
+
+ */
 
 public class BubbleSort {
     public static void main(String[] args) {

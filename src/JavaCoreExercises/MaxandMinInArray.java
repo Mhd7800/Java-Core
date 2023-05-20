@@ -1,3 +1,5 @@
+package JavaCoreExercises;
+
 public class MaxandMinInArray {
     public static void main(String[] args) {
         int[] a = new int[]{1,10, 2, 3,15};

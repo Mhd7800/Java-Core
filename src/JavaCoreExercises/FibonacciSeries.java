@@ -1,3 +1,5 @@
+package JavaCoreExercises;
+
 public class FibonacciSeries {
     public static void main(String[] args) {
         //Fibonacci : a series of numbers which one number is the sum of the two previous number

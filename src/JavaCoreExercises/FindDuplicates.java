@@ -1,3 +1,5 @@
+package JavaCoreExercises;
+
 public class FindDuplicates {
     public static void main(String[] args) {
         String[] array = new String[]{"C","java","python","Ruby"};

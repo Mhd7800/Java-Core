@@ -1,3 +1,5 @@
+package JavaCoreExercises;
+
 import java.util.Scanner;
 
 public class PalindromeInteger {

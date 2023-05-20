@@ -1,3 +1,5 @@
+package JavaCoreExercises;
+
 public class CountNumOfEvenAndOdd {
     public static void main(String[] args) {
 
