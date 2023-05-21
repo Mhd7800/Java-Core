@@ -16,7 +16,7 @@ public class BubbleSort {
         for (int i = 0; i < a.length - 1; i++) {
 
             {
-                for (int j = 0; j < a.length - 1; j++) {
+                for (int j = 0; j < a.length - 1; j++) { //why length -1 ? Because we are comparing a[j]>a[j+1] and to not get index out range
                     if (a[j] > a[j + 1]) {
                         int temp = a[j];
                         a[j] = a[j + 1];
