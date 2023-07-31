@@ -22,8 +22,6 @@ class RemoveElement {
 //                zeros++;
 //        }
 
-
-
         for (int i=0; i<n; i++)
         {
             if(nums[i]!=val)
@@ -32,8 +30,6 @@ class RemoveElement {
                 counter++;
             }
         }
-
-
 //        for(int i=0; i<newNums.length; i++)
 //        {
 //            if(newNums[i]!=0)

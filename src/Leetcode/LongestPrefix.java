@@ -6,7 +6,6 @@ public class LongestPrefix {
 
     public static String longestCommonPrefix(String[] strs) {
         int counter =0;
-        char a=' ';
         String newStr;
         int n= strs.length;
 
