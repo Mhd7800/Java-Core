@@ -1,8 +1,5 @@
 package Leetcode;
-
 import java.util.Stack;
-
-
 public class ValidParantheses {
     public static void main(String[] args) {
         ValidParantheses v = new ValidParantheses();
