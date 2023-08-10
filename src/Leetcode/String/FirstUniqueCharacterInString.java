@@ -1,8 +1,4 @@
-package Leetcode;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+package Leetcode.String;
 
 public class FirstUniqueCharacterInString {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.String;
 import java.util.Stack;
 public class ValidParantheses {
     public static void main(String[] args) {

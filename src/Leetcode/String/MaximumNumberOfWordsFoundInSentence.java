@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.String;
 /*
 Input: sentences = ["alice and bob love leetcode", "i think so too", "this is great thanks very much"]
 Output: 6

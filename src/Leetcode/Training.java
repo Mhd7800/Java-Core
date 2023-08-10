@@ -2,11 +2,22 @@ package Leetcode;
 
 public class Training {
     public static void main(String[] args) {
-        String [] str = new String[]{"a","b","c"};
-
-        for (int i=0;  i<str.length-1; i++)
+        String haystack ;
+        String needle ;
+        System.out.println(strStr("sadbutsad","sad"));
+    }
+    public static int strStr(String haystack, String needle) {
+        int index=0;
+        for (int i=0; i<haystack.length() && i<needle.length(); i++)
         {
-            System.out.println(str[i]);
+            if (haystack.charAt(i)==needle.charAt(i))
+
+                index = i;
+
+            else
+                break;
         }
+
+        return index;
     }
 }

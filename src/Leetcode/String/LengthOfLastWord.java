@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.String;
 
 /*
 Counting the last word
